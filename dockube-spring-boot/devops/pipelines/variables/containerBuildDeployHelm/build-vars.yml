@@ -1,4 +1,0 @@
-variables:
-# Artifact
-- name: artifactsRepoName
-  value: alsh-maven-repo
